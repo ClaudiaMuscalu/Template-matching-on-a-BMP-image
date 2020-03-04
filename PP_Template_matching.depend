@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1546864682 source:c:\users\claudia\desktop\pp_template_matching\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
